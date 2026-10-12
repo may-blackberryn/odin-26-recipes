@@ -1,1 +1,1 @@
-# odin-26-recipes
+This is a very simple html-only recipe webpage. It uses links, images, lists, paragraphs, headers, and emphasis. It includes 3 recipes and a home page.
